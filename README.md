@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Eduardo
+- 👀 I’m interested in popular frameworks used on web and mobile development.
+- 🌱 I’m currently learning React, web components and Flutter.
+- 💞️ I’m looking to collaborate on exciting open source projects or libraries, using any of the frameworks I'm currently learning.
+- 📫 You can reach me on https://twitter.com/emorato or https://www.instagram.com/e_morato
